@@ -12,7 +12,6 @@ feel free to use them
 ### 1. Install dependencies
 Install these packages with your distro's package manager:
 - `imagemagick`
-- `libsixel` (for image support)
 - `kitty`
 - `fastfetch`
 ### 2. Clone
