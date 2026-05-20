@@ -1,5 +1,10 @@
 # my-dotfiles
-my dotfiles i guess
+my dotfiles for
+
+kitty
+fastfetch
+
+i guess
 
 feel free to use them
 
@@ -13,6 +18,6 @@ Install these packages with your distro's package manager:
 ### 2. Clone
 Clone into your home folder.(README.md aren't save)
 
-`git clone https://github.com/FlatPonch/my-dotfiles ~`
-
 or you too lazy, you can download as zip.
+
+## im planning hyprland dotfiles
